@@ -1,0 +1,3 @@
+Break out of your (bash) shell!  IPython and the IPython Notebook have swept over the Python programming community, but they're not just for Python programmers - they make for superpowered shell replacements even with little to no Python knowledge.  They'll also let you document your work and collaborate with others like never before.  Find out how these beautiful tools can improve your daily Linux work!
+
+
